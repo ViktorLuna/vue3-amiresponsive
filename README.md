@@ -10,7 +10,6 @@ Roadmap
 - [ ] Dark Mode
 - [ ] Download as PNG or other image format
 
-
 ```
 
 ## Project setup
