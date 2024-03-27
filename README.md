@@ -1,7 +1,6 @@
 
 ## Amiresponsive
-<img src="https://github.com/ViktorLuna/vue3-amiresponsive/assets/150304387/1e176e6a-9755-4048-88c2-55ab8e77603b"/>
-
+<img src="https://github.com/ViktorLuna/vue3-amiresponsive/assets/150304387/ae6485fe-9af6-453e-845b-6c30c2700f3b"/>
 
 ### Project Features ✨
 
