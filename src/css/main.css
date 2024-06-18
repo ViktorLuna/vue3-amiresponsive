@@ -34,15 +34,14 @@
 }
 
 .title-infos{
-    color: #636363;
+    color: #343a40;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    font-weight: 900;
     /* font-size: 20px; */
 }
 .text-infos{
-    color: rgb(130, 130, 130);
+    color: #343a40;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    font-size: 15px;
     /* font-size: 13px; */
 }
