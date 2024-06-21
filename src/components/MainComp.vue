@@ -21,7 +21,7 @@
 
 export default{
     setup() {
-        let defaultSource = 'https://pinia.vuejs.org/?uwu'
+        let defaultSource = 'https://nuxt.com/?uwu'
 
         return { defaultSource }
     },
