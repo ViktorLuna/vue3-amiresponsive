@@ -1,33 +1,42 @@
-# prtflv2
+## Amiresponsive
+is a tool to check the responsiveness of websites without using an actual gadgets. bu.. but not for prod!.
 
-This template should help get you started developing with Vue 3 in Vite.
+<img src="./src/assets/imgs/image-2.png"/>
 
-## Recommended IDE Setup
+### Project Features ✨
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- [x] Vuejs3 =>  <b style="text-decoration: underline;">Vuejs3 TypeScript</b>
+- [x] Vite
+- [x] Vuetify3 =>  <b style="text-decoration: underline;">TailwindCSS</b>
+- [x] Can Access & Display Both Local (http) & Global (https) Systems
+- [ ] Auto-animate on visit
+- [ ] Router condition
+- [ ] Show/Hide Function for Each Display
+- [ ] Dark Mode
+- [ ] Download as PNG or other image format
 
-## Type Support for `.vue` Imports in TS
+<div center style="display:flex; align-items:center;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fvue.js%2Fvue-js-2048.png&f=1&nofb=1&ipt=680d479655f4fd80c9893dd39a3d12415e5f35edff3ff9edf38a7b680240797a&ipo=images" width="180"/>
+    <img src="./src/assets/imgs/image.png" width="140" center/>
+    <img src="https://vitejs.dev/logo-with-shadow.png" width="200"/>
+    <img src="./src/assets/imgs/image-4.png" width="200" center/>
+    
+</div>
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## Why?
 
-## Customize configuration
+As a front-end developer, hypotetically for most websites the responsiveness takes up 90% of the whole project. Imagine creating a full-stack app where all the functions are set up, the backend and database is finished, and the trial is on Monday. Now, imagine reading this and realizing that your website isn't yet responsive.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Try it!
 
-## Project Setup
+- <a href="https://amiresponsive.netlify.app/">am i responsive?</a>
 
-```sh
-npm install
+## Run it!
+
+### to run local development apps like `http://localhost:5173/ or http://192.168.1.5:5173/ or http://127.0.0.0/`
+```
+git clone ${}
+yarn or npm install
+yarn dev
 ```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
